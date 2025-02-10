@@ -1,10 +1,10 @@
-spting:
+spring:
   application:
     name: Produtos API
   datasource:
     url: jdbc:h2:mem:produtos
     username: sa
-    password: password
+    password: q1w2e3r4t5
   jpa:
     database-platform: org.hibernate.dialect.H2Dialect
   h2:
